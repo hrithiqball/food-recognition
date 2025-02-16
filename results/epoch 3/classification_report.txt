@@ -1,0 +1,16 @@
+                   precision    recall  f1-score   support
+
+Apple Pink Lady 1       0.00      0.00      0.00        91
+        Avocado 1       0.00      0.00      0.00        85
+         Banana 1       0.00      0.00      0.00        98
+    Cauliflower 1       0.16      0.91      0.27       140
+       Cucumber 1       0.00      0.00      0.00        30
+      Mandarine 1       0.00      0.00      0.00        98
+      Onion Red 1       0.00      0.00      0.00        90
+     Strawberry 1       0.00      0.00      0.00        98
+     Watermelon 1       0.00      0.00      0.00        95
+       Zucchini 1       0.05      0.08      0.06        48
+
+         accuracy                           0.15       873
+        macro avg       0.02      0.10      0.03       873
+     weighted avg       0.03      0.15      0.05       873
